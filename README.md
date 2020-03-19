@@ -1,4 +1,6 @@
-# VSCode Python Extension Code Execution
+# VSCode Python Extension Code Execution 
+
+**Adapted to be working on Windows, original by [doyensec](https://github.com/doyensec/VSCode_PoC_Oct2019).**
 
 This repository contains the Proof-of-Concept of a code execution vulnerability discovered in the [Visual Studio Code](https://code.visualstudio.com/) Python extension.
 
@@ -8,6 +10,6 @@ You can read more about this vulnerability on our blog: [https://blog.doyensec.c
 
 ## HowTo
 
-- Clone the 'malicious' repository with `git clone https://github.com/doyensec/VSCode_PoC_Oct2019.git`
-- Add the cloned repo to a VSCode workspace on macOS. Note that the vulnerability affects all platforms, but the PoC is executing *Calculator.app*
-- Open `test.py` in VScode
+- Clone the 'malicious' repository with `git clone https://github.com/ErbaZZ/VSCode_CodeExecution_WindowsPoC`
+- Add the cloned repo to a VSCode workspace (Working on Windows)
+- Open `main.py` in VScode
