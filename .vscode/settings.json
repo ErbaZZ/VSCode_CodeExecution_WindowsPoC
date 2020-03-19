@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "totally_innocuous_folder/no_seriously_nothing_to_see_here/bin/python",
+    "python.pythonPath": "d:\\VSCode_PoC_Oct2019\\env\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
 }
