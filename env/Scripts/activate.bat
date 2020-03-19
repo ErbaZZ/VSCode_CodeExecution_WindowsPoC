@@ -1,6 +1,6 @@
 @echo off
 
-set "VIRTUAL_ENV=D:\VSCode_PoC_Oct2019\env"
+set "VIRTUAL_ENV=D:\VSCode_CodeExecution_WindowsPoC\env"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
